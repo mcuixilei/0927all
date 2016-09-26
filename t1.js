@@ -79,4 +79,5 @@ video1.onended=function(){
 	window.close();
 }
 
+
 }(window))
